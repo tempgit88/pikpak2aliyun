@@ -6,7 +6,7 @@ on:
       Folder:
         description: '保存目录'
         required: true
-        default: 'TEMP'
+        default: 'PikPak-encrypt'
 
 jobs:
   Aria2-Aliyun:
